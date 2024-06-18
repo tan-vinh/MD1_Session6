@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form{
+    background-color: bisque;
+    width: 250px;
+}
+
+.form-body{
+    margin-top: 15px;
+}
+
+.form-body input:focus{
+    background-color: yellow;
+}
+
+.form button{
+    margin-top: 15px;
+}

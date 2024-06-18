@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    background-color: aquamarine;
+    width: 250px;
+    list-style: none;
+}
+
+li:hover{
+    margin-left: 15px;
+    color: red;
+    background-color: gray;
+}

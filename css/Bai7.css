@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    color: yellowgreen;
+    background-color: grey;
+    height: 30px;
+}
